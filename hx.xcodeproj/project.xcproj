@@ -17,6 +17,7 @@
     { "kind": "folder", "path": "HXPlatform", "target-membership": [ "HXPlatform" ] },
     { "kind": "folder", "path": "HXPlatformTests", "target-membership": [ "HXPlatformTests" ] },
     { "kind": "group", "name": "Frameworks" },
+    { "path": "README.md" },
     {
       "kind": "group",
       "name": "Products",
